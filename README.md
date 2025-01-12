@@ -1,6 +1,6 @@
-Hii, I am Adarsh Singh Parihar.
-Hii, I am Adarsh Singh Parihar.
-Hii, I am Adarsh Singh Parihar.
+Hii, I am Aditya Singh .
+Hii, I am Aditya Singh .
+Hii, I am Aditya Singh .
 # jhadsc
 # Portfolio
 # My-Portlio-
