@@ -60,7 +60,7 @@ function Projects() {
               isBlog={false}
               title="Medico"
               description="This robust and user-friendly application is tailored to streamline the process of scheduling appointments with healthcare professionals, enhancing the overall patient experience and optimizing the healthcare facility's operations."
-              ghLink="https://iaditya-singh.github.io/Medico-App/"
+              ghLink="https://github.com/Adarsh26062002/medico"
               demoLink="https://doctorapp-xk2x.onrender.com/"
             />
           </Col>
@@ -71,11 +71,11 @@ function Projects() {
               isBlog={false}
               title="Luxcart"
               description="Implemented a modern and visually appealing user interface for Luxcart using NextJS, focusing on creating a smooth and interactive shopping experience. Leveraging reusable components and state management with Redux, the project ensured efficient routing and a seamless user experience. Integrated MongoDB for robust data handling and employed Node.js and Express.js for the backend, resulting in a full-stack solution that enhances both the frontend and backend performance."
-              ghLink="https://github.com/iaditya-singh/Luxcart_Frontend"
+              ghLink=""
               demoLink="https://luxcart-frontend-exhp.vercel.app/" 
             />
           </Col>
- 
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={luxcartAdmin}
