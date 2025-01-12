@@ -75,7 +75,7 @@ function Projects() {
               demoLink="https://luxcart-frontend-exhp.vercel.app/" 
             />
           </Col>
-
+ 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={luxcartAdmin}
