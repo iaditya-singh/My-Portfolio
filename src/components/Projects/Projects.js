@@ -72,7 +72,7 @@ function Projects() {
               title="Luxcart"
               description="Implemented a modern and visually appealing user interface for Luxcart using NextJS, focusing on creating a smooth and interactive shopping experience. Leveraging reusable components and state management with Redux, the project ensured efficient routing and a seamless user experience. Integrated MongoDB for robust data handling and employed Node.js and Express.js for the backend, resulting in a full-stack solution that enhances both the frontend and backend performance."
               ghLink="https://github.com/iaditya-singh/Luxcart_Frontend"
-              demoLink="https://luxcart-frontend-exhp.vercel.app/" 
+              demoLink="https://luxcart-frontend-m55vlk16v-aditya-singhs-projects-1d66a3fb.vercel.app/" 
             />
           </Col>
 
