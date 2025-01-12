@@ -60,7 +60,7 @@ function Projects() {
               isBlog={false}
               title="Medico"
               description="This robust and user-friendly application is tailored to streamline the process of scheduling appointments with healthcare professionals, enhancing the overall patient experience and optimizing the healthcare facility's operations."
-              ghLink="https://github.com/Adarsh26062002/medico"
+              ghLink="https://github.com/iaditya-singh/Medico-App"
               demoLink="https://doctorapp-xk2x.onrender.com/"
             />
           </Col>
